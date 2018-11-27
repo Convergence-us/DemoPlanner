@@ -1,0 +1,49 @@
+page-program {
+
+
+	.program {
+ 
+		scroll-content {
+			display: flex;
+			flex-direction: column;
+		}
+	 
+		ion-grid {
+			padding: 0;
+			height: 100%;
+		}
+	 
+		ion-row {
+			flex: 1;
+		}
+	 
+	}
+
+	.buttonIconTop {
+		font-size:1.5em; 
+		text-align: center; 
+		//margin-top:40px;
+		color:#fff; 
+		vertical-align: middle;
+
+	}
+	
+	.buttonsize {
+		font-size:3.5em; 
+		text-align: center; 
+		background:#004c94; 
+		color:#fff; 
+		//height:225px;
+	}
+
+	.buttonsize1 {
+		font-size:3.5em; 
+		text-align: center; 
+		background:#0b172a;
+		color:#fff; 
+		//height:225px;
+	}
+
+
+
+}
